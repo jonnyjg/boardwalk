@@ -1,0 +1,6 @@
+.deno_plugins
+.vscode
+.idea
+.env.dev
+.env.production
+.env.test
